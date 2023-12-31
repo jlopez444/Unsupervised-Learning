@@ -5,3 +5,4 @@ In this project, we use the KMeans algrothim to review customer ratings modeled 
 ## Dependencies
 
 * Imports needed: Pandas, HVplot, Pathlib, SkLearn
+* service_ratings.csv file (attached)
